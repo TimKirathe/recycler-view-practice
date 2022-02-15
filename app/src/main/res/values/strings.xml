@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Recyler View Practice</string>
+    <string-array name="football_teams">
+        <item>Chelsea</item>
+        <item>Manchester City</item>
+        <item>Liverpool</item>
+        <item>West Ham</item>
+        <item>Tottenham</item>
+        <item>Real Madrid</item>
+        <item>Paris Saint German</item>
+        <item>Ajax</item>
+        <item>Manchester United</item>
+        <item>Arsenal</item>
+    </string-array>
+
+    <string-array name="description">
+        <item>This is a football team.</item>
+        <item>This is a football team.</item>
+        <item>This is a football team.</item>
+        <item>This is a football team.</item>
+        <item>This is a football team.</item>
+        <item>This is a football team.</item>
+        <item>This is a football team.</item>
+        <item>This is a football team.</item>
+        <item>This is a football team.</item>
+        <item>This is a football team.</item>
+    </string-array>
+</resources>
